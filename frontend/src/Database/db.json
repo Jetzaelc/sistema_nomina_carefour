@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Jetzael Contreras",
+      "username": "jetzael",
+      "email": "jetcoto@gmail.com",
+      "phone": "3046504302",
+      "id": 1
+    },
+    {
+      "name": "Oscar Contreras",
+      "username": "Oscar",
+      "email": "odct@gmail.com",
+      "phone": "3187106239",
+      "id": 3
+    },
+    {
+      "name": "Nury Contreras",
+      "username": "Nury",
+      "email": "npct@gmail.com",
+      "phone": "322211341",
+      "id": 4
+    },
+    {
+      "name": "Osman Contreras",
+      "username": "Osman",
+      "email": "Osman@gmail.com",
+      "phone": "2341234132",
+      "id": 5
+    }
+  ]
+}
